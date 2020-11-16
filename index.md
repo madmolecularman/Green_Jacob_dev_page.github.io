@@ -7,26 +7,22 @@ I am a PhD candidate at the University of Rhode Island in the Biological and Env
 ---
 ### Education
 
-University of Rhode Island, Kingston, CA Fall 2019 – Present
+**University of Rhode Island, Kingston, RI Fall 2019 – Present**
 
-PhD Candidate in the Biological and Environmental Sciences
+* PhD Candidate in the Biological and Environmental Sciences
+* Concentration: Evolution and Marine Biology
 
-Concentration: Evolution and Marine Biology
+**California State University, Monterey Bay, Seaside, CA Fall 2015 – Spring 2018**
 
-California State University, Monterey Bay, Seaside, CA Fall 2015 – Spring 2018
+* Bachelors of Science in Biology
+* Concentration: Molecular Biology
+* Minor: Chemistry
+* Major GPA: 3.87
 
-Bachelors of Science in Biology
+**Santa Barbara Community College, Santa Barbara, CA Fall 2011 – Spring 2015**
 
-Concentration: Molecular Biology
+* Associates of Arts in Biology, Chemistry, Liberal Arts
 
-Minor: Chemistry
-
-Major GPA: 3.87
-
-Santa Barbara Community College, Santa Barbara, CA
-Associates of Arts in Biology, Chemistry, Liberal Arts
-
-Fall 2011 – Spring 2015
 
 ### Research Interests
 
