@@ -26,19 +26,19 @@ I am a PhD candidate at the University of Rhode Island in the Biological and Env
 
 ### Research Interests
 
-*Marine Biology – How marine organisms utilize physiological mechanisms to respond to changing ocean condition. Host/pathogen interactions between marine phages and echinoderms.
+* Marine Biology – How marine organisms utilize physiological mechanisms to respond to changing ocean condition. Host/pathogen interactions between marine phages and echinoderms.
 
-*Molecular Biology – viral-cell surface recognition, inhibition of regenerative pathways transcription/translation regulation, RNA interference, signaling pathway mechanisms, protein folding and sorting, lytic/lysogenic regulation mechanisms.
+* Molecular Biology – viral-cell surface recognition, inhibition of regenerative pathways transcription/translation regulation, RNA interference, signaling pathway mechanisms, protein folding and sorting, lytic/lysogenic regulation mechanisms.
 
-*Biochemistry – enzymatic activity and feedback inhibition, utilization of glycoconjugates for cell communication, localization, and apoptotic mechanisms.
+* Biochemistry – enzymatic activity and feedback inhibition, utilization of glycoconjugates for cell communication, localization, and apoptotic mechanisms.
 
-*Bioinformatics – sequencing analysis, genomic assembly, transcriptome assembly, metagenomics, differential gene expression analysis, data management, data carpentry.
+* Bioinformatics – sequencing analysis, genomic assembly, transcriptome assembly, metagenomics, differential gene expression analysis, data management, data carpentry.
 
 ---
 ### Recent Projects
 
 
-- [CSC 593 project](https://github.com/madmolecularman/csc593_project_HPscrapper)
+- [CSC 593 Term Project: Host Pathogen NCBI data mining and alignment](https://github.com/madmolecularman/csc593_project_HPscrapper)
 
 ---
 
